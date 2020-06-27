@@ -1,0 +1,6 @@
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson21\bin\Debug\Lesson21.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson21\bin\Debug\Lesson21.exe
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson21\bin\Debug\Lesson21.pdb
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson21\obj\Debug\Lesson21.csprojAssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson21\obj\Debug\Lesson21.exe
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson21\obj\Debug\Lesson21.pdb
