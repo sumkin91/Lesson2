@@ -1,0 +1,5 @@
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson23\bin\Debug\Lesson23.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson23\bin\Debug\Lesson23.exe
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson23\bin\Debug\Lesson23.pdb
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson23\obj\Debug\Lesson23.exe
+C:\Users\Fedor\Desktop\C#\Lesson2\Lesson23\obj\Debug\Lesson23.pdb
